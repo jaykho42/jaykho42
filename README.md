@@ -1,6 +1,7 @@
 👋 Hi, I’m @jaykho42
-👀 I’m interested in game dev and computer science
-🌱 I’m currently learning python.
+ I’m interested in game dev and computer science!
+ I’m currently learning python.
+ coding a secret project 👀
 stean ha berug miy multerhand
 
 <!---
